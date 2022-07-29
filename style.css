@@ -1,8 +1,10 @@
 img {
 		width: 500px;
-		height: auto
+		height: auto;
+		float: right;
 	}
-	name {
+name {
 		color: black;
-		font-family: helvetica
+		font-family: helvetica;
+		font-weight: bold;
 	}		
